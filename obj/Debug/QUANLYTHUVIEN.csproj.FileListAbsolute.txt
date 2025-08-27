@@ -1,0 +1,58 @@
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\QUANLYTHUVIEN.exe.config
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\QUANLYTHUVIEN.exe
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\QUANLYTHUVIEN.pdb
+C:\LTGD\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.csproj.AssemblyReference.cache
+C:\LTGD\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.FrmCapnhat.resources
+C:\LTGD\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.FrmDangnhap.resources
+C:\LTGD\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.FrmMain.resources
+C:\LTGD\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.Properties.Resources.resources
+C:\LTGD\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.csproj.GenerateResource.cache
+C:\LTGD\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.csproj.CoreCompileInputs.cache
+C:\LTGD\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.exe
+C:\LTGD\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.pdb
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\EPPlus.dll
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\EPPlus.Interfaces.dll
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\EPPlus.System.Drawing.dll
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\System.Buffers.dll
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\System.ComponentModel.Annotations.dll
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\System.Memory.dll
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\System.Numerics.Vectors.dll
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\EPPlus.xml
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\System.Buffers.xml
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\System.Memory.xml
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\System.Numerics.Vectors.xml
+C:\LTGD\QUANLYTHUVIEN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\LTGD\QUANLYTHUVIEN\obj\Debug\QUANLYTH.E22296E5.Up2Date
+C:\LTGD\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.ThongKe.resources
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\QUANLYTHUVIEN.exe.config
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.exe
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.pdb
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\QUANLYTHUVIEN.exe
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\QUANLYTHUVIEN.pdb
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\EPPlus.dll
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\EPPlus.Interfaces.dll
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\EPPlus.System.Drawing.dll
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\System.Buffers.dll
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\System.Memory.dll
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\System.Numerics.Vectors.dll
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\EPPlus.xml
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\System.Buffers.xml
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\System.Memory.xml
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\System.Numerics.Vectors.xml
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.FrmCapnhat.resources
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.FrmDangnhap.resources
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.FrmMain.resources
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.Properties.Resources.resources
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.ThongKe.resources
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.csproj.GenerateResource.Cache
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.csproj.AssemblyReference.cache
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\obj\Debug\QUANLYTHUVIEN.csproj.CoreCompileInputs.cache
+D:\Tài liệu môn học\Lập trình giao diện\QUANLYTHUVIEN\QUANLYTHUVIEN\obj\Debug\QUANLYTH.E22296E5.Up2Date
